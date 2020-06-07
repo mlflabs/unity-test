@@ -1,0 +1,22 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+
+namespace Mlf.InventorySystem.Items {
+
+  public enum ItemType {
+    Food,
+    Grass,
+    Equipment,
+    Default
+  }
+  public abstract class BaseItem : ScriptableObject {
+    public Sprite icon;
+    public ItemType type;
+
+    new public string name;
+    [TextArea(5,20)] public string description;
+  }
+}
+

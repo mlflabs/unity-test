@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{BF51C9E8-B436-6F84-0580-596FD5703699}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Mlf/Tiles/Editor/TerrainTile.cs">
+    <Files>
+      <File FileName="../../../Downloads/AutoSaveFile.vsix" />
+      <File FileName="Assets/Scripts/Mlf/Sm/Base/BaseSm.cs" />
+      <File FileName="Assets/Scripts/Mlf/Sm/BasicStateMachine/Actions/MoveToWaypointDrawGizmos.cs" Line="30" Column="2" />
+      <File FileName="Assets/Scripts/Mlf/Tiles/Editor/TerrainTile.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="city" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.PsdPlugin PreferredExecutionTarget="b1cc7e26-639a-48a7-9207-5f1733e55e13" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8c60e755-68e2-4710-856b-74d8da175baa" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

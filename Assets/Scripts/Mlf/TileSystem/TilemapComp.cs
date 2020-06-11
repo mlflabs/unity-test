@@ -6,18 +6,27 @@ using Mlf.Sm.BasicStateMachine;
 using Pathfinding;
 using UnityEngine;
 using UnityEngine.EventSystems;
+using UnityEngine.Tilemaps;
 
 namespace Mlf.TileSystem
 {
   public class TilemapComp : MonoBehaviour {
 
-    Tilemap tilemap;
+    public Tilemap tilemap;
+    public TilemapType type;
 
     void Start() {
       Tilemap tilemap = GetComponent<Tilemap>();
+
+
     }
     
   } 
+
+  public enum TilemapType {
+
+
+  }
 }
 
 

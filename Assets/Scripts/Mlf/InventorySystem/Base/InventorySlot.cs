@@ -21,6 +21,8 @@ namespace Mlf.InventorySystem.Base {
     public void AddAmount(int value) {
       amount += value;
     }
+
+    
   }
 
 

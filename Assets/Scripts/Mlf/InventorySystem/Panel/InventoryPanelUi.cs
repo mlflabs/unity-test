@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using Mlf.Gm;
 using Mlf.InventorySystem.Base;
@@ -20,6 +21,9 @@ namespace Mlf.InventorySystem.Panel {
 
       public List<PanelItemUi> slots = new List<PanelItemUi>();
       public int numberOfSlots = 6;
+
+      public Action<PanelItemUi> onSelectedItemChanged;
+      [SerializeField] public PanelItemUi selectedItem;
       
       void Start()
       {
@@ -38,6 +42,7 @@ namespace Mlf.InventorySystem.Panel {
 
         PanelItemUi[] allChildren = GetComponentsInChildren<PanelItemUi>();
 
+        
 
         foreach(PanelItemUi ui in allChildren) {
           slots.Add(ui);
@@ -52,9 +57,15 @@ namespace Mlf.InventorySystem.Panel {
         //Debug.Log(GameManager.instance);
         GameManager.instance.onSelectedSmChanged += onSmChanged;
 
-        onSmChanged(null);
         
-
+        
+        if(this.inventory != null) {
+          inventory.onInventoryUpdate -= onInventoryChanged;
+          onInventoryChanged();
+        }
+        else {
+          onSmChanged(null);
+        }
           
       }
 
@@ -64,10 +75,10 @@ namespace Mlf.InventorySystem.Panel {
         if(inventory != null)
           inventory.onInventoryUpdate -= onInventoryChanged;
 
-        if(sm == null) {
-          rectTransform.anchoredPosition = offScreenPosition;
-          return;
-        }
+        //if(sm == null) {
+        //  rectTransform.anchoredPosition = offScreenPosition;
+        //  return;
+        //}
         
         this.inventory = sm.inventory;
         this.inventory.onInventoryUpdate += onInventoryChanged;
@@ -77,6 +88,11 @@ namespace Mlf.InventorySystem.Panel {
         rectTransform.anchoredPosition = onScreenPosition;
         Debug.Log("======================== " + inventory.items.Count);
       
+      }
+
+      public void setSelectedItem(PanelItemUi item) {
+        this.selectedItem = item;
+        onSelectedItemChanged?.Invoke(item);
       }
 
       private void onInventoryChanged() {

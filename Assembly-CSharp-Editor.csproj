@@ -58,6 +58,9 @@
      <Compile Include="Assets\2dExtras\Tilemap\Destructible\Scripts\Editor\DestructibleEditor.cs" />
      <Compile Include="Assets\2dExtras\Tilemap\Editor\PreviewUtil.cs" />
      <Compile Include="Assets\Scripts\Mlf\Grid\Pathfinding\Editor\PathfindingGridEditor.cs" />
+     <Compile Include="Assets\Scripts\Mlf\TileSystem\Editor\Path9SliceEditor.cs" />
+     <Compile Include="Assets\Scripts\Mlf\TileSystem\Editor\PathRuleTileEditor.cs" />
+     <Compile Include="Assets\Scripts\Mlf\TileSystem\Editor\TileGridManagerEditor.cs" />
  <Reference Include="UnityEditor.TestRunner">
  <HintPath>/Users/mike/Projects/unity/city/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
  </Reference>

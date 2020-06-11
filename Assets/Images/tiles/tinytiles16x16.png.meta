@@ -1,0 +1,2273 @@
+fileFormatVersion: 2
+guid: f915c23c81a0c40faa0da8b8e946904f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -899455764087271204
+    second: tinytiles16x16_0
+  - first:
+      213: 7331485121101897246
+    second: tinytiles16x16_1
+  - first:
+      213: -8914103694693868132
+    second: tinytiles16x16_2
+  - first:
+      213: -1212252197598751151
+    second: tinytiles16x16_3
+  - first:
+      213: 5869371345357537154
+    second: tinytiles16x16_4
+  - first:
+      213: -4415746363865367997
+    second: tinytiles16x16_5
+  - first:
+      213: -5621030769402330108
+    second: tinytiles16x16_6
+  - first:
+      213: 7833715723978444775
+    second: tinytiles16x16_7
+  - first:
+      213: -4985328781460339174
+    second: tinytiles16x16_8
+  - first:
+      213: 2497069070099975282
+    second: tinytiles16x16_9
+  - first:
+      213: 2232964812701862669
+    second: tinytiles16x16_10
+  - first:
+      213: -4215624081210603372
+    second: tinytiles16x16_11
+  - first:
+      213: -6436519756289160330
+    second: tinytiles16x16_12
+  - first:
+      213: 8326399774517149096
+    second: tinytiles16x16_13
+  - first:
+      213: -5721946719572950400
+    second: tinytiles16x16_14
+  - first:
+      213: -5695222759792400716
+    second: tinytiles16x16_15
+  - first:
+      213: 8247922569039516283
+    second: tinytiles16x16_16
+  - first:
+      213: -9172964820817503565
+    second: tinytiles16x16_17
+  - first:
+      213: 1466233848897694764
+    second: tinytiles16x16_18
+  - first:
+      213: -4574873649383834119
+    second: tinytiles16x16_19
+  - first:
+      213: 9094775795902782800
+    second: tinytiles16x16_20
+  - first:
+      213: -6722282431876474905
+    second: tinytiles16x16_21
+  - first:
+      213: -2910396221936457169
+    second: tinytiles16x16_22
+  - first:
+      213: -1973962857923203492
+    second: tinytiles16x16_23
+  - first:
+      213: 2416797520546826745
+    second: tinytiles16x16_24
+  - first:
+      213: 6411306488778214071
+    second: tinytiles16x16_25
+  - first:
+      213: -5657579536153311732
+    second: tinytiles16x16_26
+  - first:
+      213: 6075101291775218245
+    second: tinytiles16x16_27
+  - first:
+      213: -7244508302160987765
+    second: tinytiles16x16_28
+  - first:
+      213: 394215525238425153
+    second: tinytiles16x16_29
+  - first:
+      213: -9209362159844538749
+    second: tinytiles16x16_30
+  - first:
+      213: 1780831726220326781
+    second: tinytiles16x16_31
+  - first:
+      213: -3226781087607418835
+    second: tinytiles16x16_32
+  - first:
+      213: -6057034335724903743
+    second: tinytiles16x16_33
+  - first:
+      213: 5407368913803625287
+    second: tinytiles16x16_34
+  - first:
+      213: -9003152333548137960
+    second: tinytiles16x16_35
+  - first:
+      213: 4188316828419720907
+    second: tinytiles16x16_36
+  - first:
+      213: -749639094793280581
+    second: tinytiles16x16_37
+  - first:
+      213: 488829556264989149
+    second: tinytiles16x16_38
+  - first:
+      213: -7370779931916522468
+    second: tinytiles16x16_39
+  - first:
+      213: -3630062542599117100
+    second: tinytiles16x16_40
+  - first:
+      213: 5544811117794301107
+    second: tinytiles16x16_41
+  - first:
+      213: -6549444393374083167
+    second: tinytiles16x16_42
+  - first:
+      213: -2160243958980993495
+    second: tinytiles16x16_43
+  - first:
+      213: 4008531778679290135
+    second: tinytiles16x16_44
+  - first:
+      213: -7507414731429144673
+    second: tinytiles16x16_45
+  - first:
+      213: 6574220458763268625
+    second: tinytiles16x16_46
+  - first:
+      213: 8342517668029587823
+    second: tinytiles16x16_47
+  - first:
+      213: 7531112093117920982
+    second: tinytiles16x16_48
+  - first:
+      213: 4251985347698357148
+    second: tinytiles16x16_49
+  - first:
+      213: -2245955009841914954
+    second: tinytiles16x16_50
+  - first:
+      213: 541265019446148921
+    second: tinytiles16x16_51
+  - first:
+      213: -6034476191018532764
+    second: tinytiles16x16_52
+  - first:
+      213: -2531879679637888188
+    second: tinytiles16x16_53
+  - first:
+      213: 7086662946680773495
+    second: tinytiles16x16_54
+  - first:
+      213: 7522550725384259999
+    second: tinytiles16x16_55
+  - first:
+      213: -9045753670970186954
+    second: tinytiles16x16_56
+  - first:
+      213: -374813677603981383
+    second: tinytiles16x16_57
+  - first:
+      213: 2578910856092363329
+    second: tinytiles16x16_58
+  - first:
+      213: 813808709255585772
+    second: tinytiles16x16_59
+  - first:
+      213: -8781646201538008694
+    second: tinytiles16x16_60
+  - first:
+      213: -5304133824295732037
+    second: tinytiles16x16_61
+  - first:
+      213: -1288904354635309256
+    second: tinytiles16x16_62
+  - first:
+      213: -8167167284248344667
+    second: tinytiles16x16_63
+  - first:
+      213: 938999107708632159
+    second: tinytiles16x16_64
+  - first:
+      213: -7048470869017035883
+    second: tinytiles16x16_65
+  - first:
+      213: 4537439375539187316
+    second: tinytiles16x16_66
+  - first:
+      213: 7821511768730716666
+    second: tinytiles16x16_67
+  - first:
+      213: -5284263965694611995
+    second: tinytiles16x16_68
+  - first:
+      213: -932713005724394899
+    second: tinytiles16x16_69
+  - first:
+      213: -242956446236124241
+    second: tinytiles16x16_70
+  - first:
+      213: 4883084859533280458
+    second: tinytiles16x16_71
+  - first:
+      213: 542681697675797330
+    second: tinytiles16x16_72
+  - first:
+      213: 6043943444755168888
+    second: tinytiles16x16_73
+  - first:
+      213: -3526781211032748385
+    second: tinytiles16x16_74
+  - first:
+      213: 6557502558410457274
+    second: tinytiles16x16_75
+  - first:
+      213: -5409561586197364926
+    second: tinytiles16x16_76
+  - first:
+      213: 4057981515972429134
+    second: tinytiles16x16_77
+  - first:
+      213: -5773871839472268159
+    second: tinytiles16x16_78
+  - first:
+      213: -3213184541085754575
+    second: tinytiles16x16_79
+  - first:
+      213: 519689956849209331
+    second: tinytiles16x16_80
+  - first:
+      213: 1484467916063122236
+    second: tinytiles16x16_81
+  - first:
+      213: 4826208073708661150
+    second: tinytiles16x16_82
+  - first:
+      213: -3803728706319428032
+    second: tinytiles16x16_83
+  - first:
+      213: -8564047080624714902
+    second: tinytiles16x16_84
+  - first:
+      213: 8089598026973542693
+    second: tinytiles16x16_85
+  - first:
+      213: 6339889646927946237
+    second: tinytiles16x16_86
+  - first:
+      213: -2518374105877463867
+    second: tinytiles16x16_87
+  - first:
+      213: -9183608328951968673
+    second: tinytiles16x16_88
+  - first:
+      213: -7433606572024712503
+    second: tinytiles16x16_89
+  - first:
+      213: 6846290113846409956
+    second: tinytiles16x16_90
+  - first:
+      213: -2358454307274800999
+    second: tinytiles16x16_91
+  - first:
+      213: -6981339057522089482
+    second: tinytiles16x16_92
+  - first:
+      213: 2319129817494243742
+    second: tinytiles16x16_93
+  - first:
+      213: -5395940318842281310
+    second: tinytiles16x16_94
+  - first:
+      213: -3287300218769957138
+    second: tinytiles16x16_95
+  - first:
+      213: -3519730684817566079
+    second: tinytiles16x16_96
+  - first:
+      213: 2791521572295639346
+    second: tinytiles16x16_97
+  - first:
+      213: -263301446403882529
+    second: tinytiles16x16_98
+  - first:
+      213: -7231714964693677311
+    second: tinytiles16x16_99
+  - first:
+      213: -6448941234858748507
+    second: tinytiles16x16_100
+  - first:
+      213: -6859800708632252681
+    second: tinytiles16x16_101
+  - first:
+      213: -8844755527009316545
+    second: tinytiles16x16_102
+  - first:
+      213: 820632208144184504
+    second: tinytiles16x16_103
+  - first:
+      213: 2580499209486082902
+    second: tinytiles16x16_104
+  - first:
+      213: -2622823646838913035
+    second: tinytiles16x16_105
+  - first:
+      213: -3288866855728025657
+    second: tinytiles16x16_106
+  - first:
+      213: 2090536113646713609
+    second: tinytiles16x16_107
+  - first:
+      213: -3743510884066907113
+    second: tinytiles16x16_108
+  - first:
+      213: -2088575912794343303
+    second: tinytiles16x16_109
+  - first:
+      213: -4813192928701907786
+    second: tinytiles16x16_110
+  - first:
+      213: 3120634552595282015
+    second: tinytiles16x16_111
+  - first:
+      213: -8683203706692125253
+    second: tinytiles16x16_112
+  - first:
+      213: 3231660966605846702
+    second: tinytiles16x16_113
+  - first:
+      213: 2103818228223942705
+    second: tinytiles16x16_114
+  - first:
+      213: -7130134673669598137
+    second: tinytiles16x16_115
+  - first:
+      213: -1675109382954008740
+    second: tinytiles16x16_116
+  - first:
+      213: 4607743462043117372
+    second: tinytiles16x16_117
+  - first:
+      213: -9049259075470614297
+    second: tinytiles16x16_118
+  - first:
+      213: 9052747655152098837
+    second: tinytiles16x16_119
+  - first:
+      213: -8112126417446564004
+    second: tinytiles16x16_120
+  - first:
+      213: 2605686216959006683
+    second: tinytiles16x16_121
+  - first:
+      213: -7841410313621782933
+    second: tinytiles16x16_122
+  - first:
+      213: 2494580014037460050
+    second: tinytiles16x16_123
+  - first:
+      213: -3809093767904250446
+    second: tinytiles16x16_124
+  - first:
+      213: -3530717146698524701
+    second: tinytiles16x16_125
+  - first:
+      213: -1126940758868792662
+    second: tinytiles16x16_126
+  - first:
+      213: -7313427641864973699
+    second: tinytiles16x16_127
+  - first:
+      213: 8419981074152989110
+    second: tinytiles16x16_128
+  - first:
+      213: -8378086452975474067
+    second: tinytiles16x16_129
+  - first:
+      213: 6435559701812796117
+    second: tinytiles16x16_130
+  - first:
+      213: 722994807548443011
+    second: tinytiles16x16_131
+  - first:
+      213: 4152816645102747032
+    second: tinytiles16x16_132
+  - first:
+      213: -8425084616824918746
+    second: tinytiles16x16_133
+  - first:
+      213: 1706052558578416434
+    second: tinytiles16x16_134
+  - first:
+      213: -1329145776571844074
+    second: tinytiles16x16_135
+  - first:
+      213: 7045057060656372835
+    second: tinytiles16x16_136
+  - first:
+      213: 8762878644383843820
+    second: tinytiles16x16_137
+  - first:
+      213: -786718141032433095
+    second: tinytiles16x16_138
+  - first:
+      213: 1415860072417958486
+    second: tinytiles16x16_139
+  - first:
+      213: -1382992881525999879
+    second: tinytiles16x16_140
+  - first:
+      213: 2616148751168690158
+    second: tinytiles16x16_141
+  - first:
+      213: -2008642258083419487
+    second: tinytiles16x16_142
+  - first:
+      213: 8527495609122732308
+    second: tinytiles16x16_143
+  - first:
+      213: 134560067958490008
+    second: tinytiles16x16_144
+  - first:
+      213: 6034297120333624475
+    second: tinytiles16x16_145
+  - first:
+      213: 7736547352550854194
+    second: tinytiles16x16_146
+  - first:
+      213: 6285636515045284104
+    second: tinytiles16x16_147
+  - first:
+      213: -4580452626519805829
+    second: tinytiles16x16_148
+  - first:
+      213: 983670223799843108
+    second: tinytiles16x16_149
+  - first:
+      213: -3372700649203378601
+    second: tinytiles16x16_150
+  - first:
+      213: -6703190429690050795
+    second: tinytiles16x16_0
+  - first:
+      213: -2211998312952970131
+    second: tinytiles16x16_1
+  - first:
+      213: 3427399618354172223
+    second: tinytiles16x16_2
+  - first:
+      213: 2327092430679673485
+    second: tinytiles16x16_3
+  - first:
+      213: -6982222599337107608
+    second: tinytiles16x16_4
+  - first:
+      213: -4343941475427752761
+    second: tinytiles16x16_5
+  - first:
+      213: 5683039563438807880
+    second: tinytiles16x16_6
+  - first:
+      213: -1995733480931292973
+    second: tinytiles16x16_7
+  - first:
+      213: -6187808674404048013
+    second: tinytiles16x16_8
+  - first:
+      213: 8687577054993508856
+    second: tinytiles16x16_9
+  - first:
+      213: -633527888200074225
+    second: tinytiles16x16_10
+  - first:
+      213: -4240104998572248845
+    second: tinytiles16x16_11
+  - first:
+      213: 4173827808175943108
+    second: tinytiles16x16_12
+  - first:
+      213: -8842290993594203170
+    second: tinytiles16x16_13
+  - first:
+      213: -6274887218332793732
+    second: tinytiles16x16_14
+  - first:
+      213: 2954702430039736759
+    second: tinytiles16x16_15
+  - first:
+      213: -8398984969477516331
+    second: tinytiles16x16_16
+  - first:
+      213: 1983547147520815500
+    second: tinytiles16x16_17
+  - first:
+      213: -6039556311159119283
+    second: tinytiles16x16_18
+  - first:
+      213: -1522180075000079319
+    second: tinytiles16x16_19
+  - first:
+      213: 6716372626596150776
+    second: tinytiles16x16_20
+  - first:
+      213: -6451889454471115592
+    second: tinytiles16x16_21
+  - first:
+      213: 1441821455308277970
+    second: tinytiles16x16_22
+  - first:
+      213: 1512367370651196377
+    second: tinytiles16x16_23
+  - first:
+      213: 5854543924994965456
+    second: tinytiles16x16_24
+  - first:
+      213: -4608052890071109354
+    second: tinytiles16x16_25
+  - first:
+      213: 3871219525381107491
+    second: tinytiles16x16_26
+  - first:
+      213: -4107690851796616991
+    second: tinytiles16x16_27
+  - first:
+      213: -1774395942475466630
+    second: tinytiles16x16_28
+  - first:
+      213: 3850262658234565299
+    second: tinytiles16x16_29
+  - first:
+      213: 1346943549203528098
+    second: tinytiles16x16_30
+  - first:
+      213: -430173009266174205
+    second: tinytiles16x16_31
+  - first:
+      213: -894787259339241395
+    second: tinytiles16x16_32
+  - first:
+      213: -1052176020712886277
+    second: tinytiles16x16_33
+  - first:
+      213: -7110728378367178568
+    second: tinytiles16x16_34
+  - first:
+      213: -5627507011291341143
+    second: tinytiles16x16_35
+  - first:
+      213: -3077344750015961345
+    second: tinytiles16x16_36
+  - first:
+      213: 3869241214848367665
+    second: tinytiles16x16_37
+  - first:
+      213: 784921477196851899
+    second: tinytiles16x16_38
+  - first:
+      213: 3977735931855842334
+    second: tinytiles16x16_39
+  - first:
+      213: 1942840140285109872
+    second: tinytiles16x16_40
+  - first:
+      213: 5262552228498342727
+    second: tinytiles16x16_41
+  - first:
+      213: -8777197170034122566
+    second: tinytiles16x16_42
+  - first:
+      213: -3033335642286501368
+    second: tinytiles16x16_43
+  - first:
+      213: -3199699708627214530
+    second: tinytiles16x16_44
+  - first:
+      213: -4372538348467206589
+    second: tinytiles16x16_45
+  - first:
+      213: 2475466254521580392
+    second: tinytiles16x16_46
+  - first:
+      213: -5517700358546068330
+    second: tinytiles16x16_47
+  - first:
+      213: 7956086152322170124
+    second: tinytiles16x16_48
+  - first:
+      213: -2953968613692206169
+    second: tinytiles16x16_49
+  - first:
+      213: -7520056965660665130
+    second: tinytiles16x16_50
+  - first:
+      213: 3682834657641868631
+    second: tinytiles16x16_51
+  - first:
+      213: -7048192177990059819
+    second: tinytiles16x16_52
+  - first:
+      213: -8310178238882426294
+    second: tinytiles16x16_53
+  - first:
+      213: 3571097616024355260
+    second: tinytiles16x16_54
+  - first:
+      213: 2555378102108209622
+    second: tinytiles16x16_55
+  - first:
+      213: -6744991048321262894
+    second: tinytiles16x16_56
+  - first:
+      213: -6429745474053595701
+    second: tinytiles16x16_57
+  - first:
+      213: 7634402708527717708
+    second: tinytiles16x16_58
+  - first:
+      213: -3840537674644401354
+    second: tinytiles16x16_59
+  - first:
+      213: 6889329841425118478
+    second: tinytiles16x16_60
+  - first:
+      213: -9064568800091177217
+    second: tinytiles16x16_61
+  - first:
+      213: 4888311738168409681
+    second: tinytiles16x16_62
+  - first:
+      213: -1768222272933515491
+    second: tinytiles16x16_63
+  - first:
+      213: 8338533446122704181
+    second: tinytiles16x16_64
+  - first:
+      213: 8498250553801046624
+    second: tinytiles16x16_65
+  - first:
+      213: 574559751665595356
+    second: tinytiles16x16_66
+  - first:
+      213: 8401037707936732527
+    second: tinytiles16x16_67
+  - first:
+      213: -560871269234393372
+    second: tinytiles16x16_68
+  - first:
+      213: -7391153185793083852
+    second: tinytiles16x16_69
+  - first:
+      213: -5945738478798967921
+    second: tinytiles16x16_70
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tinytiles16x16_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517c688b1db79f2a0800000000000000
+      internalID: -6703190429690050795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64cca801476d41e0800000000000000
+      internalID: -2211998312952970131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f315f433bc1909f20800000000000000
+      internalID: 3427399618354172223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a892a7c3e7b4020800000000000000
+      internalID: 2327092430679673485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f9ecf0a892a1f90800000000000000
+      internalID: -6982222599337107608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4ea084e3837b3c0800000000000000
+      internalID: -4343941475427752761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bd2477f563ede40800000000000000
+      internalID: 5683039563438807880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d88cb219fabd44e0800000000000000
+      internalID: -1995733480931292973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373e0188bcc702aa0800000000000000
+      internalID: -6187808674404048013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9e8b18d49709870800000000000000
+      internalID: 8687577054993508856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_10
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cf7840eb14537f0800000000000000
+      internalID: -633527888200074225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_11
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f03eb508fe1825c0800000000000000
+      internalID: -4240104998572248845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd69f3174a6ce930800000000000000
+      internalID: 4173827808175943108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed38e26903fd94580800000000000000
+      internalID: -8842290993594203170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_14
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7482a9125f1be8a0800000000000000
+      internalID: -6274887218332793732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_15
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b180879436310920800000000000000
+      internalID: 2954702430039736759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_16
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d392748bafc07b80800000000000000
+      internalID: -8398984969477516331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81b7331f99f68b10800000000000000
+      internalID: 1983547147520815500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d426460b88f2f2ca0800000000000000
+      internalID: -6039556311159119283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_19
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c5171694120eae0800000000000000
+      internalID: -1522180075000079319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_20
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdbb6ba159553d50800000000000000
+      internalID: 6716372626596150776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_21
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc092889b84676a0800000000000000
+      internalID: -6451889454471115592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_22
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8cf2979f0620410800000000000000
+      internalID: 1441821455308277970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_23
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db5e895c120df410800000000000000
+      internalID: 1512367370651196377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 205
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dffe3b5ea48f3150800000000000000
+      internalID: 5854543924994965456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 205
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611791d9f48ec00c0800000000000000
+      internalID: -4608052890071109354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_26
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 205
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fa5e1d5a559b530800000000000000
+      internalID: 3871219525381107491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_27
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 205
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e87a8b0fec8ef6c0800000000000000
+      internalID: -4107690851796616991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_28
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 205
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78fadd9a441067e0800000000000000
+      internalID: -1774395942475466630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_29
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 205
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2c504fc71ee6530800000000000000
+      internalID: 3850262658234565299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_30
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 205
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9b7c6850e41b210800000000000000
+      internalID: 1346943549203528098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_31
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 205
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3079abe5de7b70af0800000000000000
+      internalID: -430173009266174205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_32
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 205
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d480a897ab31593f0800000000000000
+      internalID: -894787259339241395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_33
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 205
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff693cdb7be561f0800000000000000
+      internalID: -1052176020712886277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_34
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 205
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b88221d63e915d90800000000000000
+      internalID: -7110728378367178568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_35
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 205
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae95f4603417e1b0800000000000000
+      internalID: -5627507011291341143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6a2eb11431b45d0800000000000000
+      internalID: -3077344750015961345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_37
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c7651826e42b530800000000000000
+      internalID: 3869241214848367665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_38
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbaa4e0cce994ea00800000000000000
+      internalID: 784921477196851899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_39
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c239c41c1c33730800000000000000
+      internalID: 3977735931855842334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_40
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076601160da56fa10800000000000000
+      internalID: 1942840140285109872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743859f9e57580940800000000000000
+      internalID: 5262552228498342727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_42
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab06d8c6da1213680800000000000000
+      internalID: -8777197170034122566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_43
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8025bfcfd4d67e5d0800000000000000
+      internalID: -3033335642286501368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_44
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f9a5751126893d0800000000000000
+      internalID: -3199699708627214530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346c6dce98f9153c0800000000000000
+      internalID: -4372538348467206589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_46
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bb932617f9a5220800000000000000
+      internalID: 2475466254521580392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_47
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ce0d702c03d63b0800000000000000
+      internalID: -5517700358546068330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_48
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d319fc332b96e60800000000000000
+      internalID: 7956086152322170124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_49
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3193752356107d0800000000000000
+      internalID: -2953968613692206169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da181f580463a790800000000000000
+      internalID: -7520056965660665130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_51
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dad3fcb9e0c1330800000000000000
+      internalID: 3682834657641868631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8373a9e8acf2e90800000000000000
+      internalID: -7048192177990059819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_53
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a425b33cbe05cac80800000000000000
+      internalID: -8310178238882426294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_54
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1406d7c561f8130800000000000000
+      internalID: 3571097616024355260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_55
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1c8fa48d6867320800000000000000
+      internalID: 2555378102108209622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_56
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da1f97c06af462a0800000000000000
+      internalID: -6744991048321262894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_57
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd1cdebe84f4c6a0800000000000000
+      internalID: -6429745474053595701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_58
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d131a80d8d2f960800000000000000
+      internalID: 7634402708527717708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_59
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633d05c355ba3bac0800000000000000
+      internalID: -3840537674644401354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_60
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0574a25df0db9f50800000000000000
+      internalID: 6889329841425118478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_61
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffef974d3be243280800000000000000
+      internalID: -9064568800091177217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_62
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e76e060a5c6d340800000000000000
+      internalID: 4888311738168409681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_63
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f2dd116330677e0800000000000000
+      internalID: -1768222272933515491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_64
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d8bd36dfb68b370800000000000000
+      internalID: 8338533446122704181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06af39f5ad9dfe570800000000000000
+      internalID: 8498250553801046624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_66
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3b34ccc0f39f700800000000000000
+      internalID: 574559751665595356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_67
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f651b36e84b769470800000000000000
+      internalID: 8401037707936732527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eebf806d826738f0800000000000000
+      internalID: -560871269234393372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_69
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4367e4866595d6990800000000000000
+      internalID: -7391153185793083852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytiles16x16_70
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8be0dbfa5e7c7da0800000000000000
+      internalID: -5945738478798967921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

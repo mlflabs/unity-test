@@ -9,6 +9,8 @@ namespace Mlf.InventorySystem.Items {
     Food,
     Grass,
     Equipment,
+
+    Building, 
     Default
   }
   public abstract class BaseItem : ScriptableObject {
@@ -16,7 +18,14 @@ namespace Mlf.InventorySystem.Items {
     public ItemType type;
 
     new public string name;
+
     [TextArea(5,20)] public string description;
+
+    public virtual bool onItemUse() {
+      return false;
+    }
+
+    
   }
 }
 

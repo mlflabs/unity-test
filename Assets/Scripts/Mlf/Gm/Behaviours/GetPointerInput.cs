@@ -1,12 +1,16 @@
 ﻿
+using Mlf.Gm.InputTypes;
 using Mlf.Sm.BasicStateMachine;
-using Pathfinding;
 using UnityEngine;
-using UnityEngine.EventSystems;
 
 namespace Mlf.Gm.Behaviours
 {
   public class GetPointerInput : MonoBehaviour {
+
+
+    public BasicUserDragInput dragTarget;
+
+
     public void Start () {
         
     }
@@ -27,8 +31,26 @@ namespace Mlf.Gm.Behaviours
               GameManager.instance.selectedObject = hit.collider.gameObject;
             }
 
+            if(dragTarget == null) {
+              BasicUserDragInput bdi = hit.collider.gameObject.GetComponent<BasicUserDragInput>();
+              if(bdi != null) {
+                dragTarget = bdi;
+                dragTarget.startDrag();
+              }
+            }
             //hit.collider.attachedRigidbody.AddForce(Vector2.up);
           }
+
+          if(dragTarget != null) {
+            dragTarget.setNewDragPosition(Camera.main.ScreenToWorldPoint(Input.mousePosition));
+          }
+      }
+
+      if(Input.GetMouseButtonUp(0)) {
+        if(dragTarget == null) return;
+
+        dragTarget.stopDrag();
+        dragTarget = null;
       }
 
       if(Input.GetMouseButtonDown(1)) {

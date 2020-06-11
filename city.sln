@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AstarPathfindingProject", "AstarPathfindingProject.csproj", "{31D437F0-D159-2570-3962-6D6638452EDD}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{BF51C9E8-B436-6F84-0580-596FD5703699}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AstarPathfindingProject", "AstarPathfindingProject.csproj", "{31D437F0-D159-2570-3962-6D6638452EDD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.Tilemap.Extras", "Unity.2D.Tilemap.Extras.csproj", "{AB7387AF-2631-63CD-19A9-2D536E0744E8}"
 EndProject
@@ -21,14 +21,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{31D437F0-D159-2570-3962-6D6638452EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{31D437F0-D159-2570-3962-6D6638452EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{31D437F0-D159-2570-3962-6D6638452EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{31D437F0-D159-2570-3962-6D6638452EDD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BF51C9E8-B436-6F84-0580-596FD5703699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BF51C9E8-B436-6F84-0580-596FD5703699}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF51C9E8-B436-6F84-0580-596FD5703699}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF51C9E8-B436-6F84-0580-596FD5703699}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31D437F0-D159-2570-3962-6D6638452EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D437F0-D159-2570-3962-6D6638452EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D437F0-D159-2570-3962-6D6638452EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D437F0-D159-2570-3962-6D6638452EDD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AB7387AF-2631-63CD-19A9-2D536E0744E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AB7387AF-2631-63CD-19A9-2D536E0744E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB7387AF-2631-63CD-19A9-2D536E0744E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
